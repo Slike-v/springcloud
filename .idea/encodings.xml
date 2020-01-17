@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bus1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bus2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bus3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/busclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/busserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buszuul" charset="UTF-8" />
+  </component>
+</project>
